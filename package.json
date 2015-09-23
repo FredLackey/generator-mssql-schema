@@ -1,0 +1,25 @@
+{
+  "name": "generator-mssql-schema",
+  "version": "0.1.0",
+  "description": "Exports the layout of a Microsoft SQL Server database to a JSON schema document.",
+  "license": "MIT",
+  "author": {
+    "name": "Fred Lackey",
+    "email": "fred.lackey@gmail.com",
+    "url": "https://github.com/FredLackey"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "mssql",
+    "schema",
+    "api",
+    "scaffold"
+  ],
+  "dependencies": {
+    "mssql-schema-reader": "^1.0.0",
+    "yeoman-generator": "^0.20.3"
+  }
+}
