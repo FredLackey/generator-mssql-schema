@@ -1,6 +1,6 @@
 {
   "name": "generator-mssql-schema",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Exports the layout of a Microsoft SQL Server database to a JSON schema document.",
   "license": "MIT",
   "repository": {
@@ -23,7 +23,7 @@
     "yeoman-generator",
     "mssql",
     "sql server",
-    "sql" 
+    "sql", 
     "schema",
     "json"
     "api",
