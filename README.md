@@ -20,7 +20,7 @@ Please refer to the [Microsoft SQL Server Schema Reader](https://github.com/Fred
 # Installation #
 This generator was built for Yeoman, therefore the install command shall be...
 
-`npm isntall -g yo generator-mssql-schema`
+`npm install -g yo generator-mssql-schema`
 
 # Files & Folders #
 Each run of the generator will create the following files and folders:
